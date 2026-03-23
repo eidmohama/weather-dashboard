@@ -25,3 +25,6 @@ python Weather_Dashboard.py
 - Matplotlib (data visualization)
 - OpenWeatherMap API
 - JSON & CSV (file handling)
+
+## Screenshots
+![Dashboard](screenshots/dashboard.PNG)
