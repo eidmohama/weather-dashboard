@@ -1,6 +1,3 @@
-# weather-dashboard
-This project is a Python-based weather dashboard that uses the OpenWeatherMap API to display real-time and forecast weather data through an interactive GUI, with features like data visualization, file handling, and exception management.
-
 # Weather Dashboard
 ## Description
 This project is a Python-based Weather Dashboard developed as part of the M602 Computer Programming module. The application integrates with the OpenWeatherMap API to retrieve real-time and forecast weather data for user-specified locations.
